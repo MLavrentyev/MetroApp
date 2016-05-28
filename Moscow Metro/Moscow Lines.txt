@@ -1,0 +1,13 @@
+ID|COLOR
+0	Red
+1	Green
+2	Blue
+3	Light-Blue
+4	Brown
+5	Orange 
+6	Purple
+7	Yellow
+8	Gray
+9	Light-Green
+10	Turquoise
+11	Butovskaya

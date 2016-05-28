@@ -1,0 +1,6 @@
+ID|COLOR
+0	Red
+1	Light-Blue
+2	Green
+3	Yellow
+4	Dark-Blue

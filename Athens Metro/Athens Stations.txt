@@ -1,0 +1,93 @@
+ID|NAME|LINE
+0	Anthoupoli	0	
+1	Peristeri	0
+2	Aghios Antonios	0
+3	Sepolia	0
+4	Attiki - R	0
+5	Larissa Station	0
+6	Metaxourghio	0
+7	Omonia - R	0
+8	Panepistimio	0
+9	Syntagma - R	0
+10	Akropoli	0
+11	Sygrou-Fix	0
+12	Neos Kosmos	0
+13	Aghios Ioannis	0
+14	Dafni	0
+15	Aghio Dimitrios	0
+16	Ilioupoli	0
+17	Alimos	0
+18	Argyroupoli	0
+19	Elliniko	0
+20	Airport - LB	1
+21	Koropi - LB	1
+22	Paiania-Kantza - LB	1
+23	Pallini - LB	1
+24	Doukissis Pakentias - LB	1
+25	Halandri	1
+26	Aghia Paraskevi	1
+27	Nomismatokopio	1
+28	Holargos	1
+29	Ethniki Amyna	1
+30	Kethaki	1
+31	Panormou	1
+32	Ambelokipi	1
+33	Megaro Moussikis	1
+34	Evangelismos	1
+35	Syntagma - LB	1
+36	Monastiraki - LB	1
+37	Kerameikos	1
+38	Eleonas	1
+39	Egaleo	1
+40	Agia Marina	1
+41	Piraeus - G	2
+42	Faliro	2
+43	Moschato	2
+44	Kallithea	2
+45	Tavros	2
+46	Petralona	2
+47	Thissio	2
+48	Monastiraki - G	2
+49	Omonia - G	2
+50	Victoria	2
+51	Attiki - G	2
+52	Aliomos Nikolaos	2
+53	Kato Patissa	2
+54	Aghios Eleftherios	2
+55	Ano Patissia	2
+56	Perissos	2
+57	Pefkakia	2
+58	Nea Ionia	2
+59	Iraklio	2
+60	Irini	2
+61	Neratziotissa - G	2
+62	Maroussi	2
+63	KAT	2
+64	Kifissia	2
+65	Airport - Y	3
+66	Koropi - Y	3
+67	Paiania-Kantza - Y	3
+68	Pallini - Y	3
+69	Doukissis Plakentias - Y	3
+70	Pentelis	3
+71	Kifisias	3
+72	Neratziotissa - Y	3
+73	Irakleio	3
+74	Metamorfosi	3
+75	Acharnai Railway Center	3
+76	Ano Liosia - Y	3
+77	Piraeus - DB	4
+78	Lefka	4
+79	Rentis	4
+80	Athens	4
+81	Agioi Anargyroi	4
+82	Ano Liosia - DB	4
+83	Aspropyrgos	4
+84	Magoula	4
+85	Nea Peramos	4
+86	Agioi Theodoroi	4
+87	Megara	4
+88	Kineta	4
+89	Corinth	4
+90	Zevgolatio	4
+91	Kiato	4

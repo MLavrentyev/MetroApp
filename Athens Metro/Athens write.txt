@@ -1,0 +1,368 @@
+0
+Anthoupoli
+1
+Peristeri
+2
+Aghios Antonios
+3
+Sepolia
+4
+Attiki - R
+5
+Larissa Station
+6
+Metaxourghio
+7
+Omonia - R
+8
+Panepistimio
+9
+Syntagma - R
+10
+Akropoli
+11
+Sygrou-Fix
+12
+Neos Kosmos
+13
+Aghios Ioannis
+14
+Dafni
+15
+Aghio Dimitrios
+16
+Ilioupoli
+17
+Alimos
+18
+Argyroupoli
+19
+Elliniko
+20
+Airport - LB
+21
+Koropi - LB
+22
+Paiania-Kantza - LB
+23
+Pallini - LB
+24
+Doukissis Pakentias - LB
+25
+Halandri
+26
+Aghia Paraskevi
+27
+Nomismatokopio
+28
+Holargos
+29
+Ethniki Amyna
+30
+Kethaki
+31
+Panormou
+32
+Ambelokipi
+33
+Megaro Moussikis
+34
+Evangelismos
+35
+Syntagma - LB
+36
+Monastiraki - LB
+37
+Kerameikos
+38
+Eleonas
+39
+Egaleo
+40
+Agia Marina
+41
+Piraeus - G
+42
+Faliro
+43
+Moschato
+44
+Kallithea
+45
+Tavros
+46
+Petralona
+47
+Thissio
+48
+Monastiraki - G
+49
+Omonia - G
+50
+Victoria
+51
+Attiki - G
+52
+Aliomos Nikolaos
+53
+Kato Patissa
+54
+Aghios Eleftherios
+55
+Ano Patissia
+56
+Perissos
+57
+Pefkakia
+58
+Nea Ionia
+59
+Iraklio
+60
+Irini
+61
+Neratziotissa - G
+62
+Maroussi
+63
+KAT
+64
+Kifissia
+65
+Airport - Y
+66
+Koropi - Y
+67
+Paiania-Kantza - Y
+68
+Pallini - Y
+69
+Doukissis Plakentias - Y
+70
+Pentelis
+71
+Kifisias
+72
+Neratziotissa - Y
+73
+Irakleio
+74
+Metamorfosi
+75
+Acharnai Railway Center
+76
+Ano Liosia - Y
+77
+Piraeus - DB
+78
+Lefka
+79
+Rentis
+80
+Athens
+81
+Agioi Anargyroi
+82
+Ano Liosia - DB
+83
+Aspropyrgos
+84
+Magoula
+85
+Nea Peramos
+86
+Agioi Theodoroi
+87
+Megara
+88
+Kineta
+89
+Corinth
+90
+Zevgolatio
+91
+Kiato
+0
+Anthoupoli
+1
+Peristeri
+2
+Aghios Antonios
+3
+Sepolia
+4
+Attiki - R
+5
+Larissa Station
+6
+Metaxourghio
+7
+Omonia - R
+8
+Panepistimio
+9
+Syntagma - R
+10
+Akropoli
+11
+Sygrou-Fix
+12
+Neos Kosmos
+13
+Aghios Ioannis
+14
+Dafni
+15
+Aghio Dimitrios
+16
+Ilioupoli
+17
+Alimos
+18
+Argyroupoli
+19
+Elliniko
+20
+Airport - LB
+21
+Koropi - LB
+22
+Paiania-Kantza - LB
+23
+Pallini - LB
+24
+Doukissis Pakentias - LB
+25
+Halandri
+26
+Aghia Paraskevi
+27
+Nomismatokopio
+28
+Holargos
+29
+Ethniki Amyna
+30
+Kethaki
+31
+Panormou
+32
+Ambelokipi
+33
+Megaro Moussikis
+34
+Evangelismos
+35
+Syntagma - LB
+36
+Monastiraki - LB
+37
+Kerameikos
+38
+Eleonas
+39
+Egaleo
+40
+Agia Marina
+41
+Piraeus - G
+42
+Faliro
+43
+Moschato
+44
+Kallithea
+45
+Tavros
+46
+Petralona
+47
+Thissio
+48
+Monastiraki - G
+49
+Omonia - G
+50
+Victoria
+51
+Attiki - G
+52
+Aliomos Nikolaos
+53
+Kato Patissa
+54
+Aghios Eleftherios
+55
+Ano Patissia
+56
+Perissos
+57
+Pefkakia
+58
+Nea Ionia
+59
+Iraklio
+60
+Irini
+61
+Neratziotissa - G
+62
+Maroussi
+63
+KAT
+64
+Kifissia
+65
+Airport - Y
+66
+Koropi - Y
+67
+Paiania-Kantza - Y
+68
+Pallini - Y
+69
+Doukissis Plakentias - Y
+70
+Pentelis
+71
+Kifisias
+72
+Neratziotissa - Y
+73
+Irakleio
+74
+Metamorfosi
+75
+Acharnai Railway Center
+76
+Ano Liosia - Y
+77
+Piraeus - DB
+78
+Lefka
+79
+Rentis
+80
+Athens
+81
+Agioi Anargyroi
+82
+Ano Liosia - DB
+83
+Aspropyrgos
+84
+Magoula
+85
+Nea Peramos
+86
+Agioi Theodoroi
+87
+Megara
+88
+Kineta
+89
+Corinth
+90
+Zevgolatio
+91
+Kiato
